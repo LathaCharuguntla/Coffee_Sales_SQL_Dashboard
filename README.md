@@ -78,12 +78,3 @@ Special thanks to the following tools and platforms that made this project possi
 - **MySQL**: For efficient data storage and transformation.
 - **Power BI Service**: For enabling dashboard publishing and collaboration.
 
-## Future Enhancements
-
-- Add predictive analytics to forecast future sales trends.
-- Include customer segmentation analysis for targeted marketing.
-- Integrate additional data sources such as marketing campaigns and customer feedback for deeper insights.
-
-## Contact
-
-For any queries or feedback, feel free to contact me at [your-email@example.com].
